@@ -54,4 +54,4 @@ There is also a list-based interface for users who wish to view dining options b
 [License](https://github.com/jovanyoshioka/FinDining/blob/main/LICENSE.txt)
 
 ## Presentation
-[Presentation](https://github.com/jovanyoshioka/FinDining/blob/main/final_presentation.pdf)
+[Presentation](https://github.com/jovanyoshioka/FinDining/blob/main/presentation.pdf)
